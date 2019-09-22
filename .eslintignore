@@ -1,0 +1,6 @@
+/lambda/
+/scripts
+/config
+*.ts
+*.tsx
+BaseComponent.js
